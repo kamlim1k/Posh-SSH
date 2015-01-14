@@ -5,7 +5,7 @@ The main purpose of the module is to facilitate automating actions against one o
 # Install
 To install the module including all source code you can just run in a PowerShell v3 the following command:
 <pre>
-iex (New-Object Net.WebClient).DownloadString("https://gist.github.com/darkoperator/6152630/raw/c67de4f7cd780ba367cccbc2593f38d18ce6df89/instposhsshdev")
+iex (New-Object Net.WebClient).DownloadString("https://gist.githubusercontent.com/kamlim1k/599fdce9e39499dc9553/raw/e860b4d145f9b5690daf4cf737d343cf8390113b/intall-posh-ssh")
 </pre>
 
 # Support
